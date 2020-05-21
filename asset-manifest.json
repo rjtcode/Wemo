@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Wemo/static/css/main.5e32d3d1.chunk.css",
+    "main.js": "/Wemo/static/js/main.84387a0d.chunk.js",
+    "main.js.map": "/Wemo/static/js/main.84387a0d.chunk.js.map",
+    "runtime-main.js": "/Wemo/static/js/runtime-main.63e8a5bb.js",
+    "runtime-main.js.map": "/Wemo/static/js/runtime-main.63e8a5bb.js.map",
+    "static/js/2.bc5102cb.chunk.js": "/Wemo/static/js/2.bc5102cb.chunk.js",
+    "static/js/2.bc5102cb.chunk.js.map": "/Wemo/static/js/2.bc5102cb.chunk.js.map",
+    "index.html": "/Wemo/index.html",
+    "precache-manifest.b79f98fd15b8e77b96638660ef463312.js": "/Wemo/precache-manifest.b79f98fd15b8e77b96638660ef463312.js",
+    "service-worker.js": "/Wemo/service-worker.js",
+    "static/css/main.5e32d3d1.chunk.css.map": "/Wemo/static/css/main.5e32d3d1.chunk.css.map",
+    "static/js/2.bc5102cb.chunk.js.LICENSE.txt": "/Wemo/static/js/2.bc5102cb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Wemo/static/media/sun.c7254e16.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63e8a5bb.js",
+    "static/js/2.bc5102cb.chunk.js",
+    "static/css/main.5e32d3d1.chunk.css",
+    "static/js/main.84387a0d.chunk.js"
+  ]
+}
